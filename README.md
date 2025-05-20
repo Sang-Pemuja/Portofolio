@@ -1,6 +1,6 @@
-# 📚 Portofolio IT – [Nama Kamu]
+# 📚 Portofolio - Gibran Al Mubarok
 
-Halo! Saya adalah lulusan SMK dari jurusan [tulis jurusanmu], dengan latar belakang di bidang bisnis. Saya sedang membangun kemampuan di bidang IT karena menyadari pentingnya teknologi dalam pengembangan usaha dan solusi digital masa kini.
+Halo! Saya adalah lulusan SMK dari jurusan Akuntansi, dengan latar belakang di bidang bisnis. Saya sedang membangun kemampuan di bidang IT karena menyadari pentingnya teknologi dalam pengembangan usaha dan solusi digital masa kini.
 
 Portofolio ini adalah bukti komitmen saya untuk belajar secara mandiri dan menjelajahi dunia pemrograman dari awal.
 
@@ -45,5 +45,5 @@ Portofolio ini adalah bukti komitmen saya untuk belajar secara mandiri dan menje
 
 ## 📫 Kontak
 
-Email: [email kamu]  
-LinkedIn: [opsional]  
+No Telp : 0812 1132 4932
+Email: gibranalmubarok9@gmail.com  
